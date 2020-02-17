@@ -22,12 +22,12 @@
 
         <menu>
             <item
-                android:id="+id/subitem1"
+                android:id="@+id/subitem1"
                 android:title="Sub Item 1"
                 />
 
             <item
-                android:id="+id/subitem2"
+                android:id="@+id/subitem2"
                 android:title="Sub Item 2"
                 />
 
